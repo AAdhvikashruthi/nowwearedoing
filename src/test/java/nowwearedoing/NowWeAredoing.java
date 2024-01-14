@@ -7,7 +7,7 @@ public class NowWeAredoing {
 	public void now()
 	{
 		System.out.println("its now");
-		System.out.println("its modification done by vaishnavi");
+		System.out.println("its modification is done by vaishnavi");
 		
 	}
 
